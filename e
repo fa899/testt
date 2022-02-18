@@ -719,6 +719,11 @@ _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 											h = (8051755)
 											while (2079 / 77) < M do
 												h -= h
+												if (b[o[B]] <= o[D]) then
+													l = o[r];
+												else
+													l = l + d;
+												end;
 												break
 											end
 											while (h) / ((594610 / 194)) == 2627 do
@@ -973,6 +978,7 @@ _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 												b[h] = b[h](b[h + d])
 												l = l + O;
 												o = k[l];
+												b[o[P]] = b[o[K]][o[c]];
 												l = l + O;
 												o = k[l];
 												b[o[L]] = a[o[r]];
@@ -1062,6 +1068,7 @@ _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 											h = (7027460)
 											while M > (10164 / 231) do
 												h -= h
+												b[o[m]] = b[o[e]][o[U]];
 												break
 											end
 											while (h) / ((7590 - 3850)) == 1879 do
@@ -1435,6 +1442,7 @@ _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 												local M;
 												local h;
 												h = o[F]
+												b[h] = b[h](x(b, h + O, o[r]))
 												l = l + O;
 												o = k[l];
 												b[o[L]] = {};
@@ -2071,6 +2079,7 @@ _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 											h = (1451359)
 											while M > (1602 / 18) do
 												h -= h
+												b[o[F]] = b[o[e]][b[o[D]]];
 												break
 											end
 											while (h) / ((7570 - 3839)) == 389 do
@@ -2182,17 +2191,20 @@ _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 												b[o[P]] = a[o[e]];
 												l = l + O;
 												o = k[l];
+												b[o[H]] = b[o[f]][o[_]];
 												l = l + O;
 												o = k[l];
 												h = o[P];
 												M = b[o[f]];
 												b[h + 1] = M;
+												b[h] = M[o[U]];
 												l = l + O;
 												o = k[l];
 												b[o[P]] = o[p];
 												l = l + O;
 												o = k[l];
 												h = o[L]
+												b[h] = b[h](x(b, h + O, o[K]))
 												l = l + O;
 												o = k[l];
 												b[o[P]] = a[o[p]];
@@ -2230,7 +2242,6 @@ _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 												b[o[H]][o[f]] = b[o[c]];
 												l = l + O;
 												o = k[l];
-                                                print(b[o[f]][o[t]])
 												b[o[L]] = b[o[f]][o[t]];
 												l = l + O;
 												o = k[l];
@@ -3427,47 +3438,4 @@ _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 		end;
 		return u(Q(), {}, T())()
 	end)
-	_msec({
-		[(364 - 204)] = '\115\116' .. (function(o)
-			return (o and '(-119+0xdb)') or '\114\105' or '\120\58'
-		end)((-92 + (4268 / 44)) == (978 / 163)) .. '\110g',
-		[(33067 / (150 + -107))] = '\108\100' .. (function(o)
-			return (o and '(164+-0x40)') or '\101\120' or '\119\111'
-		end)((1205 / 241) == (115 + -109)) .. '\112',
-		[(13082 / 62)] = (function(o)
-			return (o and '(0x5fb4/245)') and '\98\121' or '\100\120'
-		end)((1190 / 238) == (99 + -94)) .. '\116\101',
-		[(-76 + 410)] = '\99' .. (function(o)
-			return (o and '(22500/0xe1)') and '\90\19\157' or '\104\97'
-		end)((73 - 68) == (45 / (2550 / 170))) .. '\114',
-		[(1214 - 627)] = '\116\97' .. (function(o)
-			return (o and '(6500/0x41)') and '\64\113' or '\98\108'
-		end)((53 - 47) == (-111 + (242 + -126))) .. '\101',
-		[(1049 - 573)] = (function(o)
-			return (o and '(213+-0x71)') or '\115\117' or '\78\107'
-		end)((54 - 51) == (164 - 133)) .. '\98',
-		[(-51 + (168543 / 183))] = '\99\111' .. (function(o)
-			return (o and '(0x2008/82)') and '\110\99' or '\110\105\103\97'
-		end)((3627 / 117) == (106 + -75)) .. '\97\116',
-		[(1417 - 730)] = (function(o, l)
-			return (o and '(0x113-175)') and '\48\159\158\188\10' or '\109\97'
-		end)((52 + -47) == (98 - 92)) .. '\116\104',
-		[(90870 / 65)] = (function(o, l)
-			return ((24 + (-2 + -17)) == (-47 + 50) and '\48' .. '\195' or o .. ((not'\20\95\69' and '\90' .. '\180' or l))) or '\199\203\95'
-		end),
-		[(-126 + (2248 - 1154))] = '\105\110' .. (function(o, l)
-			return (o and '(0xf7-147)') and '\90\115\138\115\15' or '\115\101'
-		end)((122 - 117) == (136 - 105)) .. '\114\116',
-		[(51277 / 47)] = '\117\110' .. (function(o, l)
-			return (o and '(155+-0x37)') or '\112\97' or '\20\38\154'
-		end)(((-120 + 895) / 155) == ((-101 + 190) - 58)) .. '\99\107',
-		[((2374 + -110) - 1151)] = '\115\101' .. (function(o)
-			return (o and '(318-0xda)') and '\110\112\99\104' or '\108\101'
-		end)((37 - 32) == ((-49 + 1351) / 42)) .. '\99\116',
-		[(1332 + -95)] = '\116\111\110' .. (function(o, l)
-			return (o and '((-16+0x138)-0xc4)') and '\117\109\98' or '\100\97\120\122'
-		end)((102 + -97) == (1050 / 210)) .. '\101\114'
-	}, {
-		[(13348 / (440 - 252))] = ((getfenv))
-	}, ((getfenv))())
 end)()
